@@ -6,8 +6,9 @@ This repository contains the most up-to-date downloads for all Recalbox releases
 -- The download is located under this repository's releases -- https://github.com/mrfixit2001/recalbox-rockchip/releases
 
 
-MrFixIt's custom kernel source is based on the Rockchip BSP Kernel but has a large number of additional fixes, customizations, and back-ports. It's source is available here: https://github.com/mrfixit2001/rockchip-kernel
-
+MrFixIt's custom kernel and u-boot sources are based on the Rockchip BSP Kernel but have a large number of additional fixes, customizations, and back-ports. Sources are here:
+* MrFixIt Kernel: https://github.com/mrfixit2001/rockchip-kernel
+* MrFixIt U-Boot: https://github.com/mrfixit2001/rockchip-u-boot
 
 For those of you unfamiliar with Recalbox: https://www.recalbox.com/ "Recalbox offers a wide selection of consoles and game systems. From the very first arcade systems to the NES, the MEGADRIVE, 32-bit platforms (such as the Playstation) and even Nintendo64. With Kodi already included, Recalbox also serves as a Media Center. By connecting it to your home network, you will be able to stream videos from any compatible devices (NAS, PC, External HDD, etc.)."
 
