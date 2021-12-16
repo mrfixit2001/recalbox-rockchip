@@ -1,4 +1,15 @@
-MRFIXIT RECALBOX RELEASES FOR ROCKCHIP BOARDS
+*** ARCHIVED REPOSITORY ***
+
+I will no longer be updating any Recalbox releases. Instead I have developed an entirely new Retro-Gaming OS, R-Cade, specifically optimized and designed for compatibility with Rockchip hardware provided by Pine64.
+
+You can download the latest version of R-Cade for free here: https://github.com/retro-center/rcade_releases/releases
+
+Feel free to check out the online store too!
+Retro Center - https://www.retro-center.com
+
+------------------------------
+
+OLD MRFIXIT RECALBOX RELEASES FOR ROCKCHIP BOARDS
 
 
 This repository contains the most up-to-date downloads for all Recalbox releases by MrFixIt. These are community builds that have been in development for some time now and have included a good number of contributors in both testing as well as debugging. The majority of these contributors are from the PINE64 community (http://www.pine64.org), who I continue to be impressed by.
